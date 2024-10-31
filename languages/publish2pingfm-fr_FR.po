@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Publish 2 Ping.fm 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-04 14:28+0100\n"
+"PO-Revision-Date: 2010-05-04 14:32+0100\n"
+"Last-Translator: François-Xavier Payet <fx.payet@tfdn.org>\n"
+"Language-Team: François-Xavier Payet\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\apps\\wordpress\\wp-content\\plugins\\Publish2PingFM\n"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:38
+msgid "Publish 2 Ping.fm Settings"
+msgstr "Réglages Publish2Ping.fm"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:39
+msgid "Publish 2 Ping.fm"
+msgstr "Publish 2 Ping.fm"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:120
+msgid "Settings Updated."
+msgstr "Réglages sauvegardés"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:126
+msgid "Wordpress 2 Ping.fm Settings"
+msgstr "Réglages Publish2Ping.fm"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:127
+msgid "In order to get Wordpress 2 Ping.fm work, you need a <a href=\"http://www.ping.fm\">Ping.fm account</a>, a <a href=\"http://bit.ly\">bit.ly</a> account, and to fill in the settings."
+msgstr "Pour que Wordpress 2 Ping.fm puisse fonctionner, il vous faut un <a href=\"http://www.ping.fm\">compte Ping.fm</a>, un <a href=\"http://bit.ly\">compte bit.ly</a>, et remplir les réglages."
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:132
+msgid "Ping.fm API Key"
+msgstr "Clef Ping.fm"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:140
+msgid "Bit.ly user name"
+msgstr "Nom d'utilisateur Bit.ly"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:148
+msgid "Bit.ly API Key"
+msgstr "Clef Bit.ly"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:156
+msgid "Status templates"
+msgstr "Modèles"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:168
+msgid "Categories"
+msgstr "Catégories"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:189
+msgid "Update Settings"
+msgstr "Mettre à jour"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/admin.php:241
+msgid "Publish post updates?"
+msgstr "Publier les mises à jour?"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/prefs.php:77
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/prefs.php:104
+msgid "New blog post : [title] [short_url]"
+msgstr "Nouveau post sur mon blog : [title] [short_url]"
+
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/prefs.php:78
+#: C:\wamp\apps\wordpress\wp-content\plugins\Publish2PingFM/php/prefs.php:105
+msgid "Read on my blog : [title] [short_url]"
+msgstr "Lire sur mon blog : [title] [short_url]"
+
